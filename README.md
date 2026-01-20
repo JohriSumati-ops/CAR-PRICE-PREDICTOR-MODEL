@@ -8,7 +8,7 @@ The project combines **machine learning** with an interactive **Streamlit web in
 ## 🌐 Web Application
 The model is deployed as a **Streamlit web app**, allowing users to enter car details and instantly receive a predicted price.
 
-*(Add live demo link here if deployed)*
+https://unlured-tianna-northernmost.ngrok-free.dev/
 
 ---
 
